@@ -1,0 +1,11 @@
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.deps.json
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.runtimeconfig.json
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.runtimeconfig.dev.json
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.dll
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.pdb
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.csprojAssemblyReference.cache
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.AssemblyInfoInputs.cache
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.AssemblyInfo.cs
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.dll
+C:\Users\Lidia\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.pdb
